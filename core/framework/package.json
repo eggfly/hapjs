@@ -84,7 +84,7 @@
     "json-loader": "0.5.4",
     "lint-staged": "^8.1.4",
     "mini-css-extract-plugin": "^0.4.5",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1",
     "prettier": "^1.18.2",
     "pretty-format": "^25.1.0",
